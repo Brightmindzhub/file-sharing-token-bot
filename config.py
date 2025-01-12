@@ -23,7 +23,7 @@ PORT = os.environ.get("PORT", "8585")
 
 #Database 
 #Database [https://youtu.be/qFB0cFqiyOM?si=fVicsCcRSmpuja1A]
-DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://ultroidxTeam:ultroidxTeam@cluster0.gabxs6m.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DB_URI = os.environ.get("DATABASE_URL", "mongodb+srv://gangstertown3dbeat:kT7hdFVbumnrVHsZ@lkdfilesharing01.swznwco.mongodb.net/?retryWrites=true&w=majority&appName=LKDFILESHARING01")
 DB_NAME = os.environ.get("DATABASE_NAME", "Cluster0")
 
 #auto delete
