@@ -12,10 +12,10 @@ def is_enabled(value, default):
     else:
         return default
 
-UPDATE = environ.get("SUPPORT", "https://t.me/ultroid_official")
-SUPPORT = environ.get("SUPPORT", "https://t.me/ultroid0fficial_chat")
-OWNERID = int(environ.get("OWNERID" ,"2016390875"))
-YT = environ.get("YT", "https://youtube.com/@phdlust")
+UPDATE = environ.get("SUPPORT", "https://t.me/+dyPS_5N33G9lNGU1")
+SUPPORT = environ.get("SUPPORT", "https://t.me/Korean_adult_Japanese_chinese_ha")
+OWNERID = int(environ.get("OWNERID" ,"6261595158"))
+YT = environ.get("YT", "https://t.me/+dyPS_5N33G9lNGU1")
 
 # Bot Information
 API_ID = int(environ.get("API_ID", "28923075"))
