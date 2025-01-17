@@ -4,7 +4,7 @@ SUPPORT1 = "@ultroid0fficial_chat"
 OWNER_ID1 = 2016390875
 
 class script(object):
-    START_TXT = """<b>Hᴇʟʟᴏ {},\nᴍʏ ɴᴀᴍᴇ {},\n 【I'm Storage bot】\n+❌Don't send me messages directly I'm only File Share bot!/b>"""
+    START_TXT = """<b>Hᴇʟʟᴏ {},\nᴍʏ ɴᴀᴍᴇ {},\n 【I'm Storage bot】\n ❌Don't send me messages directly I'm only File Share bot!/b>"""
         
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
