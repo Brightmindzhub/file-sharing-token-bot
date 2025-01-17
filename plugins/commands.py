@@ -51,7 +51,7 @@ async def start(client, message):
             InlineKeyboardButton('💝Join our backup channel ', url=YT)
             ],[
             InlineKeyboardButton('🧡 Main channel ', url=SUPPORT),
-            InlineKeyboardButton('💚All channel's', url=UPDATE)
+            InlineKeyboardButton('💚All channel ', url=UPDATE)
             ],[
             InlineKeyboardButton('💁‍♀️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
