@@ -1,7 +1,7 @@
 #credit change
 UPDATE1 = "@ultroid_official"
 SUPPORT1 = "@ultroid0fficial_chat"
-OWNER_ID1 = 2016390875
+OWNER_ID1 = 6261595158
 
 class script(object):
     START_TXT = """<b>HELLO {},\nMY NAME {},\n 【I'm Storage bot】\n
