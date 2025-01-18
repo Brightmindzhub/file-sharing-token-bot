@@ -30,10 +30,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 
 
 
-    ABOUT_TXT = f"<b>
-
-🙃 You Are Not My Owner 🧐
-○ Owner : <a href='tg://user?id={OWNER_ID1}'>This Person</a>\n"
+    ABOUT_TXT = f"<b>🙃 You Are Not My Owner 🧐</b>\n○ Owner : <a href='tg://user?id={OWNER_ID1}'>This Person</a>\n"
 
 
     CABOUT_TXT = """🙃 You Are Not My Owner 🧐"""
