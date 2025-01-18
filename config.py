@@ -13,7 +13,7 @@ def is_enabled(value, default):
         return default
 
 UPDATE = environ.get("SUPPORT", "https://t.me/Korean_adult_Japanese_chinese_ha")
-SUPPORT = environ.get("SUPPORT", "https://t.me/+dyPS_5N33G9lNGU1")
+SUPPORT = environ.get("SUPPORT", "https://t.me/+62f36jCPcOEwYzk1")
 OWNERID = int(environ.get("OWNERID" ,"6261595158"))
 YT = environ.get("YT", "https://t.me/+dyPS_5N33G9lNGU1")
 
