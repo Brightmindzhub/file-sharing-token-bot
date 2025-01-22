@@ -48,10 +48,10 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('💝Join our backup channel ', url=YT)
+            InlineKeyboardButton('💝Join our backup channel ', url=BACKUP)
             ],[
-            InlineKeyboardButton('🧡 Main channel ', url=SUPPORT),
-            InlineKeyboardButton('💚All channel ', url=UPDATE)
+            InlineKeyboardButton('🧡 Main channel ', url=MAIN),
+            InlineKeyboardButton('💚All channel ', url=LIST)
             ],[
             InlineKeyboardButton('💁‍♀️ ʜᴇʟᴘ', callback_data='help'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about')
