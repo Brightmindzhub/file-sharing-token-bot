@@ -22,7 +22,7 @@ API_ID = int(environ.get("API_ID", "23909722"))
 API_HASH = environ.get("API_HASH", "a408486635108fb7a48c1fe7b53953c5")
 BOT_TOKEN = environ.get("BOT_TOKEN", "")
 
-PICS = (environ.get('PICS', 'https://t.me/the_8_show_in_hindi_full/7')).split() # Bot Start Picture
+PICS = (environ.get('PICS', 'https://asset.cloudinary.com/dursxir30/16e0d823ee1c11bd8cde7e81e404ec3c')).split() # Bot Start Picture
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1554224899').split()]
 BOT_USERNAME = environ.get("BOT_USERNAME", "LKDFILESHARING_BOT") # without @
 PORT = environ.get("PORT", "8080")
